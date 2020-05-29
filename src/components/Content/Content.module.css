@@ -1,0 +1,21 @@
+.Content
+{
+  height: 10000px;
+  min-height: 1000px;
+  background: #393e46;
+  position: relative;
+  z-index: 1;
+}
+
+.Content h1 {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 150px;
+  line-height: 1000px;
+  color: #ffac41;
+}

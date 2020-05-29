@@ -1,0 +1,7 @@
+.reading_progress_bar{
+  position: fixed;
+  height: 5px;
+  top: 0;
+  background-color:white;
+  z-index: 999;
+}

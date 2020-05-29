@@ -1,0 +1,28 @@
+.ToolBar {
+  z-index: 500;
+  position: relative;
+  top:20px;
+  font-family: sans-serif;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.ToolBar h1{
+  display: inline;
+  padding: 10px;
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 44px;
+  color: white;
+  border-style: solid;;
+  border-radius: 6px;
+  border-color: white;
+  border-width: 4px;
+
+}
+.ToolBar h2{
+  position: fixed;
+  display: inline;
+  top: 5px;
+  right:20px;
+  margin-top: 0;
+}
